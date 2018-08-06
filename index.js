@@ -5,3 +5,4 @@ mig.say();
 var  tom=new cat();
 mig.eat(tom);
 console.log(mig);
+console.log(tom);
