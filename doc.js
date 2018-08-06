@@ -5,7 +5,7 @@ function dog(name){
 this.stomach=[];
 }
 dog.prototype.eat=function(cat){
-this.stomach.push(Cat);
+this.stomach.push(cat);
 };
 dog.prototype.say=function(){
 console.log('anh nho em'+ chalk.blue(this.name));
